@@ -1,5 +1,8 @@
-# 💫 About Me:
-Senior iOS Lead expanding into Backend Python & AI — building scalable, real-world intelligent systems.<br><br>Leading iOS development as an iOS Lead (Swift, MVVM, Accessibility-first apps)<br><br>Building a Document Intelligence Platform using Python & AI<br><br>Designing backend systems with FastAPI and API-first architecture<br><br>Exploring real-world LLM integrations for automation and document understanding<br><br>👯 I’m looking to collaborate on<br><br>AI-powered backend platforms<br><br>LLM-based automation tools<br><br>Document processing & intelligent extraction systems<br><br>Scalable API-driven architectures<br><br>Open-source AI or backend projects<br><br>🤝 I’m looking for help with<br><br>Advanced AI model optimization techniques<br><br>Production-level LLM orchestration patterns<br><br>Scaling backend systems for high concurrency<br><br>Distributed system design for AI workloads<br><br>(⬆ This makes you look ambitious, not beginner.)<br><br>🌱 I’m currently learning<br><br>Advanced backend engineering in Python<br><br>AI system design & applied LLM architectures<br><br>Async & scalable API development<br><br>Efficient prompt engineering & AI workflow pipelines<br><br>💬 Ask me about<br><br>iOS architecture (MVVM, Clean Architecture)<br><br>Accessibility (VoiceOver, WCAG compliance)<br><br>Backend API design<br><br>System design fundamentals<br><br>Transitioning into AI from strong engineering foundations<br><br>⚡ Fun fact<br><br>I combine 10+ years of production engineering experience with modern AI systems — bridging mobile, backend, and intelligence layers.<br><br>I care deeply about building tech that is both powerful and inclusive.
+# 💫 Hi! I'm Jyotsana:
+👩‍💻 iOS Lead with 10+ years of production engineering experience  
+🧠 Building backend systems with Python & AI  
+📄 Creator of an AI-powered Document Intelligence Platform  
+🚀 Focused on scalable, real-world intelligent systems
 
 
 ## 🌐 Socials:
